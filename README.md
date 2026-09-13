@@ -2,7 +2,7 @@
 
 iRacing 공식 스케줄 PDF(Current iRacing Race Schedule, 204p)를 한글 병기로 정리한 비공식 자료입니다.
 
-**웹으로 보기 → https://아이디.github.io/레포이름/**
+**웹으로 보기 → https://Wootaeklee.github.io/iracing/**
 
 ## 담긴 내용
 
